@@ -10,7 +10,6 @@ this is a static website based on React components.
 ##
 ![](screenshot/website_screenshot_d.PNG)
 ## Available Scripts
-<img src="./public/images/profilepic.jpg" />
 In the project directory, you can run:
 
 ### `npm start`
