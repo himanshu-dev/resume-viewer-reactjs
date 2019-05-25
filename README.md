@@ -1,7 +1,16 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## Project Description
+This project "resume-viewer" is created with ReactJs. 
+this is a static website based on React components.
+## Website Screenshots
+![](screenshot/website_screenshot_a.PNG)
+##
+![](screenshot/website_screenshot_b.PNG)
+##
+![](screenshot/website_screenshot_c.PNG)
+##
+![](screenshot/website_screenshot_d.PNG)
 ## Available Scripts
-
+<img src="./public/images/profilepic.jpg" />
 In the project directory, you can run:
 
 ### `npm start`
