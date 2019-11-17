@@ -5,7 +5,7 @@ pipeline {
             steps {
                 // bat 'npm install'
                 //bat 'npm run build'
-                bat "ren build\\index.html index-{BUILD_NUMBER}.html"
+                //bat "ren build\\index.html index-{BUILD_NUMBER}.html"
             }
         }
 
